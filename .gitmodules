@@ -1,0 +1,3 @@
+[submodule "cloudlightning"]
+	path = cloudlightning
+	url = https://bitbucket.org/cloudlightning/cloudlightning-simulator.git
