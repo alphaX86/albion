@@ -4,3 +4,6 @@
 [submodule "cloudsim"]
 	path = cloudsim
 	url = https://github.com/cloudsimplus/cloudsimplus-examples.git
+[submodule "LEAF"]
+	path = LEAF
+	url = https://github.com/dos-group/leaf.git
