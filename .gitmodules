@@ -1,6 +1,3 @@
-[submodule "cloudlightning"]
-	path = cloudlightning
-	url = https://bitbucket.org/cloudlightning/cloudlightning-simulator.git
 [submodule "cloudsim"]
 	path = cloudsim
 	url = https://github.com/cloudsimplus/cloudsimplus-examples.git
