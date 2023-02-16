@@ -1,3 +1,6 @@
 [submodule "cloudsim"]
 	path = cloudsim
 	url = https://github.com/cloudsimplus/cloudsimplus-examples.git
+[submodule "gateway-py"]
+	path = gateway-py
+	url = https://github.com/pkoperek/cloudsimplus-gateway.git
