@@ -1,2 +1,0 @@
-cloudsim.ext.gui.screens.InternetCharacteristicsScreen$MatrixTableModel
-cloudsim.ext.gui.screens.InternetCharacteristicsScreen
